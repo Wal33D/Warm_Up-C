@@ -1,0 +1,74 @@
+Script started on Wed 24 Sep 2014 10:36:25 PM EDT
+
+waleed@Waleed-Ubuntu:~/Desktop/Link to Shared Folder /OS1$ gcc Part2.c -o Part2
+waleed@Waleed-Ubuntu:~/Desktop/Link to Shared Folder /OS1$ ./Part2
+
+-------Welcome-------
+-------Program-------
+----------2----------
+-
+Value in element #0 is: 0
+Address in Decimal: 140733496199440
+Address in Hexadecimal: 0x7fff120c8910
+Address using Pointer in Decimal: 140733496199440
+Address using Pointer in Hexadecimal: 0x7fff120c8910
+-
+Value in element #1 is: 9
+Address in Decimal: 140733496199444
+Address in Hexadecimal: 0x7fff120c8914
+Address using Pointer in Decimal: 140733496199444
+Address using Pointer in Hexadecimal: 0x7fff120c8914
+-
+Value in element #2 is: 2
+Address in Decimal: 140733496199448
+Address in Hexadecimal: 0x7fff120c8918
+Address using Pointer in Decimal: 140733496199448
+Address using Pointer in Hexadecimal: 0x7fff120c8918
+-
+Value in element #3 is: 8
+Address in Decimal: 140733496199452
+Address in Hexadecimal: 0x7fff120c891c
+Address using Pointer in Decimal: 140733496199452
+Address using Pointer in Hexadecimal: 0x7fff120c891c
+-
+Value in element #4 is: 3
+Address in Decimal: 140733496199456
+Address in Hexadecimal: 0x7fff120c8920
+Address using Pointer in Decimal: 140733496199456
+Address using Pointer in Hexadecimal: 0x7fff120c8920
+-
+Value in element #5 is: 7
+Address in Decimal: 140733496199460
+Address in Hexadecimal: 0x7fff120c8924
+Address using Pointer in Decimal: 140733496199460
+Address using Pointer in Hexadecimal: 0x7fff120c8924
+-
+Value in element #6 is: 4
+Address in Decimal: 140733496199464
+Address in Hexadecimal: 0x7fff120c8928
+Address using Pointer in Decimal: 140733496199464
+Address using Pointer in Hexadecimal: 0x7fff120c8928
+-
+Value in element #7 is: 6
+Address in Decimal: 140733496199468
+Address in Hexadecimal: 0x7fff120c892c
+Address using Pointer in Decimal: 140733496199468
+Address using Pointer in Hexadecimal: 0x7fff120c892c
+-
+Value in element #8 is: 5
+Address in Decimal: 140733496199472
+Address in Hexadecimal: 0x7fff120c8930
+Address using Pointer in Decimal: 140733496199472
+Address using Pointer in Hexadecimal: 0x7fff120c8930
+-
+Value in element #9 is: 1
+Address in Decimal: 140733496199476
+Address in Hexadecimal: 0x7fff120c8934
+Address using Pointer in Decimal: 140733496199476
+Address using Pointer in Hexadecimal: 0x7fff120c8934
+-
+--------Good---------
+--------Bye----------
+waleed@Waleed-Ubuntu:~/Desktop/Link to Shared Folder /OS1$ exit
+
+Script done on Wed 24 Sep 2014 10:37:13 PM EDT

@@ -1,0 +1,111 @@
+Script started on Wed 24 Sep 2014 10:40:10 PM EDT
+
+waleed@Waleed-Ubuntu:~/Desktop/Link to Shared Folder /OS1$ gcc Part3.c -o Part3
+waleed@Waleed-Ubuntu:~/Desktop/Link to Shared Folder /OS1$ ./Part3
+
+
+-----------Welcome-----------
+-----------Program-----------
+--------------3--------------
+-
+Creating Dynamic Array...
+-
+Enter a positive value:
+Negative Number to Stop
+-
+10
+Enter a positive value:
+Negative Number to Stop
+-
+9
+Enter a positive value:
+Negative Number to Stop
+-
+8
+Enter a positive value:
+Negative Number to Stop
+-
+7
+Enter a positive value:
+Negative Number to Stop
+-
+6
+Enter a positive value:
+Negative Number to Stop
+-
+5
+Enter a positive value:
+Negative Number to Stop
+-
+4
+Enter a positive value:
+Negative Number to Stop
+-
+3
+Enter a positive value:
+Negative Number to Stop
+-
+2
+Enter a positive value:
+Negative Number to Stop
+-
+1
+Enter a positive value:
+Negative Number to Stop
+-
+99
+Enter a positive value:
+Negative Number to Stop
+-
+54
+Enter a positive value:
+Negative Number to Stop
+-
+32
+Enter a positive value:
+Negative Number to Stop
+-
+76
+Enter a positive value:
+Negative Number to Stop
+-
+-1
+
+Array Created with Size: 14
+How many elements would you like too see?(<=14): 
+14
+-
+Value in element #0 is: 10
+-
+Value in element #1 is: 9
+-
+Value in element #2 is: 8
+-
+Value in element #3 is: 7
+-
+Value in element #4 is: 6
+-
+Value in element #5 is: 5
+-
+Value in element #6 is: 4
+-
+Value in element #7 is: 3
+-
+Value in element #8 is: 2
+-
+Value in element #9 is: 1
+-
+Value in element #10 is: 99
+-
+Value in element #11 is: 54
+-
+Value in element #12 is: 32
+-
+Value in element #13 is: 76
+-
+------------Good-------------
+------------Bye--------------
+
+waleed@Waleed-Ubuntu:~/Desktop/Link to Shared Folder /OS1$ exit
+
+Script done on Wed 24 Sep 2014 10:41:33 PM EDT

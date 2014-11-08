@@ -1,0 +1,30 @@
+Script started on Wed 24 Sep 2014 10:43:49 PM EDT
+
+waleed@Waleed-Ubuntu:~/Desktop/Link to Shared Folder /OS1$ gcc Part1.c -o Part1
+waleed@Waleed-Ubuntu:~/Desktop/Link to Shared Folder /OS1$ ./Part1
+
+-------Welcome-------
+-------Program-------
+----------1----------
+-
+Hello my name is fred
+my value is: 42.24
+-
+Value of fred using *fredsPointer: 42.24
+-
+fred's address in decimal is: 140736437417984
+fred's address in hexadecimal is: 0x7fffc15bf800
+-
+fred's address using fredsPointer in decimal is: 140736437417984
+fred's address using fredsPointers in hexadecimal is: 0x7fffc15bf800
+-
+Adding 57.76 to fred using fredsPointer
+Value of fred using pointer: 100
+Value of fred: 100
+-
+--------Good---------
+--------Bye----------
+
+waleed@Waleed-Ubuntu:~/Desktop/Link to Shared Folder /OS1$ 
+
+Script done on Wed 24 Sep 2014 10:44:19 PM EDT
