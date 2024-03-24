@@ -1,19 +1,10 @@
-/*************************************************
-* Course: CS 4540 – Fall 2014
-* Assignment <1> - Problem <3>
-* Name: <Waleed Gudah>
-* E-mail: <waleed.h.gudah@wmich.edu>
-* Submitted: <09/24/14>
-/*************************************************
-/*
-
-/*
-Ask the user to enter a positive integer and create a dynamic array of that many integers. Ask the user to
-fill in this array with some values.
-Write a function display( int* array_ptr, int n) that gets as parameter a pointer to an array and an integer
-n and displays the first n elements of this array. Use this function to display the elements of the array you
-created.
-*/
+//
+//Ask the user to enter a positive integer and create a dynamic array of that many integers. Ask the user to
+//fill in this array with some values.
+//Write a function display( int* array_ptr, int n) that gets as parameter a pointer to an array and an integer
+//n and displays the first n elements of this array. Use this function to display the elements of the array you
+//created.
+//
 
 #include <stdio.h>
 #include <stdlib.h>

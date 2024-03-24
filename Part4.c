@@ -1,22 +1,14 @@
-/*************************************************
-* Course: CS 4540 – Fall 2014
-* Assignment <1> - Problem <4>
-* Name: <Waleed Gudah>
-* E-mail: <waleed.h.gudah@wmich.edu>
-* Submitted: <09/24/14>
-/*************************************************
-/*
-
-int* generate_rand (int length, int MAX_ARRAY) that gets an integer as input and
-generates a dynamic array with the same number of elements, fills the array with random values between
-0 and MAX_ARRAY and returns a pointer to this array.
-Write a function calculate (int* array_ptr, int length, &mean, &sd) that gets a pointer to an array and its
-length and returns the mean and standard deviation of its elements.
-Use these two functions in a main() function where you ask the user for an array length, you generate an
-array of that length filled with random elements between 0 and 100 and you calculate the average for the
-generated values. Run the program 3 times while increasing the array length (for example, for 100, 1000,
-10000 elements) and write down the results. Following code can be used to generate random values.
-*/
+//
+//int* generate_rand (int length, int MAX_ARRAY) that gets an integer as input and
+//generates a dynamic array with the same number of elements, fills the array with random values between
+//0 and MAX_ARRAY and returns a pointer to this array.
+//Write a function calculate (int* array_ptr, int length, &mean, &sd) that gets a pointer to an array and its
+//length and returns the mean and standard deviation of its elements.
+//Use these two functions in a main() function where you ask the user for an array length, you generate an
+//array of that length filled with random elements between 0 and 100 and you calculate the average for the
+//generated values. Run the program 3 times while increasing the array length (for example, for 100, 1000,
+//10000 elements) and write down the results. Following code can be used to generate random values.
+//
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>

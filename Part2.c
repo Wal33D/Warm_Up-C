@@ -1,15 +1,8 @@
-/*************************************************
-* Course: CS 4540 – Fall 2014
-* Assignment <1> - Problem <2>
-* Name: <Waleed Gudah>
-* E-mail: <waleed.h.gudah@wmich.edu>
-* Submitted: <09/24/14>
-/*************************************************
-
-Creates an array of 10 integers and assign to each element a different arbitrary value. Display all the
-elements and their addresses (in decimal and hexadecimal) in memory using the & operator. Declare a
-pointer to the array. Display all the elements and their addresses using this pointer and pointer arithmetic.
-*/
+//
+//Creates an array of 10 integers and assign to each element a different arbitrary value. Display all the
+//elements and their addresses (in decimal and hexadecimal) in memory using the & operator. Declare a
+//pointer to the array. Display all the elements and their addresses using this pointer and pointer arithmetic.
+//
 
 #include <stdio.h>
 

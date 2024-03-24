@@ -1,18 +1,10 @@
-/*************************************************
-* Course: CS 4540 – Fall 2014
-* Assignment <1> - Problem <1>
-* Name: <Waleed Gudah>
-* E-mail: <waleed.h.gudah@wmich.edu>
-* Submitted: <09/24/14>
-/*************************************************
-/*
+//
+//Here you can write everything in a main() function. Suppose fred is a double variable. Assign fred a value.
+//Display the value of fred. Declare a pointer that points to fred. Display the value of fred using this pointer.
+//Display the address of fred in decimal and hexadecimal format, with and without pointer use. Change the
+//value of fred by using the pointer. Display the value of fred with and without pointer use.
+//
 
-/*
-Here you can write everything in a main() function. Suppose fred is a double variable. Assign fred a value.
-Display the value of fred. Declare a pointer that points to fred. Display the value of fred using this pointer.
-Display the address of fred in decimal and hexadecimal format, with and without pointer use. Change the
-value of fred by using the pointer. Display the value of fred with and without pointer use.
-*/
 #include <stdio.h>
 #include <stdint.h>
 int main ()
